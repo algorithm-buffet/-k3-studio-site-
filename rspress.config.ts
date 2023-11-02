@@ -6,6 +6,7 @@ export default defineConfig({
   title: 'K3 Studio',
   description: 'Document for K3 Studio',
   icon: "/rspress-icon.png",
+  base: '/k3-studio-site/',
   logo: {
     light: "/rspress-light-logo.png",
     dark: "/rspress-dark-logo.png",
