@@ -1,0 +1,35 @@
+{
+  "version": "v0.1.0-beta.2",
+  "notes": "no update log",
+  "pub_date": "2023-11-05T06:31:26.378Z",
+  "platforms": {
+    "win64": {
+      "signature": "",
+      "url": ""
+    },
+    "linux": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin": {
+      "signature": "Not Found",
+      "url": "https://github.com/algorithm-buffet/k3-studio/releases/download/v0.1.0-beta.2/K3Studio_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "Not Found",
+      "url": "https://github.com/algorithm-buffet/k3-studio/releases/download/v0.1.0-beta.2/K3Studio_x64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "Not Found",
+      "url": "https://github.com/algorithm-buffet/k3-studio/releases/download/v0.1.0-beta.2/K3Studio_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
