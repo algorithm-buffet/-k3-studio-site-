@@ -1,7 +1,7 @@
 {
   "version": "v0.0.1-beta.1",
   "notes": "no update log",
-  "pub_date": "2023-12-06T15:39:50.437Z",
+  "pub_date": "2023-12-07T12:09:30.716Z",
   "platforms": {
     "win64": {
       "signature": "",
@@ -12,15 +12,15 @@
       "url": ""
     },
     "darwin": {
-      "signature": "Not Found",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSnV3YktnbUNVbUdodm51ZXhzRGxjb2hmQmg1NWtGN0dEVm5VbjRvTHVrV3lRUE1TZkJ5MnR5YmtwSlZwNTczOFRBbkY2bjErZlc3QVVIUCtrL2NnQzVVTjc3WkxBMHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxODc2OTk2CWZpbGU6SzNTdHVkaW8uYXBwLnRhci5negpKa0Rham9Ydkp3dzlhSHhlMG1EbDF4WUh0MWJWUHZUOERiYUNmYVFPQkJFOE85TERpN0dWU1ZjZXRBa1VpM283dHNsdHdOeTVNTVZGRSsrZEhRbnFBUT09Cg==",
       "url": "https://github.com/algorithm-buffet/k3-studio-master/releases/download/v0.0.1-beta.1/K3Studio_x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "Not Found",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSnV3YktnbUNVbUdodm51ZXhzRGxjb2hmQmg1NWtGN0dEVm5VbjRvTHVrV3lRUE1TZkJ5MnR5YmtwSlZwNTczOFRBbkY2bjErZlc3QVVIUCtrL2NnQzVVTjc3WkxBMHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxODc2OTk2CWZpbGU6SzNTdHVkaW8uYXBwLnRhci5negpKa0Rham9Ydkp3dzlhSHhlMG1EbDF4WUh0MWJWUHZUOERiYUNmYVFPQkJFOE85TERpN0dWU1ZjZXRBa1VpM283dHNsdHdOeTVNTVZGRSsrZEhRbnFBUT09Cg==",
       "url": "https://github.com/algorithm-buffet/k3-studio-master/releases/download/v0.0.1-beta.1/K3Studio_x64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "Not Found",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSnV3YktnbUNVbUdodm51ZXhzRGxjb2hmQmg1NWtGN0dEVm5VbjRvTHVrV3lRUE1TZkJ5MnR5YmtwSlZwNTczOFRBbkY2bjErZlc3QVVIUCtrL2NnQzVVTjc3WkxBMHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAxODc2OTk2CWZpbGU6SzNTdHVkaW8uYXBwLnRhci5negpKa0Rham9Ydkp3dzlhSHhlMG1EbDF4WUh0MWJWUHZUOERiYUNmYVFPQkJFOE85TERpN0dWU1ZjZXRBa1VpM283dHNsdHdOeTVNTVZGRSsrZEhRbnFBUT09Cg==",
       "url": "https://github.com/algorithm-buffet/k3-studio-master/releases/download/v0.0.1-beta.1/K3Studio_x64.app.tar.gz"
     },
     "linux-x86_64": {
